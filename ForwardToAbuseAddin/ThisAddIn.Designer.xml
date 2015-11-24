@@ -1,3 +1,19 @@
+<!--
+PhishReporter Outlook Add-In is an Outlook Add-In to Report Phishing emails to specific email addresses
+Copyright (C) 2015  Josh Rickard
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
 <hostitem:hostItem hostitem:baseType="Microsoft.Office.Tools.Outlook.OutlookAddInBase" hostitem:namespace="" hostitem:className="ThisAddIn" hostitem:identifier="ThisAddIn" hostitem:primaryCookie="AddIn" hostitem:master="true" hostitem:factoryType="Microsoft.Office.Tools.Outlook.Factory" hostitem:startupIndex="0" xmlns:hostitem="http://schemas.microsoft.com/2004/VisualStudio/Tools/Applications/HostItem.xsd">
   <hostitem:hostObject hostitem:name="Application" hostitem:identifier="Application" hostitem:type="Microsoft.Office.Interop.Outlook.Application" hostitem:cookie="Application" hostitem:modifier="Internal" />
   <hostitem:hostControl hostitem:name="CustomTaskPanes" hostitem:identifier="CustomTaskPanes" hostitem:type="Microsoft.Office.Tools.CustomTaskPaneCollection" hostitem:primaryCookie="CustomTaskPanes" hostitem:modifier="Internal" />
