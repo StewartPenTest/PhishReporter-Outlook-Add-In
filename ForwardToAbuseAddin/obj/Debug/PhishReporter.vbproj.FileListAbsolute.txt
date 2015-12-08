@@ -1,0 +1,17 @@
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\obj\Debug\ForwardToAbuseAddin.ReadMessageRibbon.resources
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\obj\Debug\ForwardToAbuseAddin.HOME.resources
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\obj\Debug\ForwardToAbuseAddin.Resources.resources
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\obj\Debug\PhishReporter.vbproj.GenerateResource.Cache
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\bin\Debug\PhishReporter.dll.config
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\bin\Debug\PhishReporter.dll
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\bin\Debug\PhishReporter.pdb
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\bin\Debug\PhishReporter.xml
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\bin\Debug\PhishReporter.dll.manifest
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\bin\Debug\PhishReporter.vsto
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\obj\Debug\PhishReporter.dll
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\obj\Debug\PhishReporter.xml
+Z:\_Box\_GitHub\PhishReporter-Outlook-Add-In\ForwardToAbuseAddin\obj\Debug\PhishReporter.pdb

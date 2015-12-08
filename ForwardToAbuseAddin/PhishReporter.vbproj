@@ -196,6 +196,12 @@
   <ItemGroup>
     <AppDesigner Include="My Project\" />
     <Compile Include="PhishReporterConfig.vb" />
+    <Compile Include="ReadMessageRibbon.Designer.vb">
+      <DependentUpon>ReadMessageRibbon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReadMessageRibbon.vb">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Ribbon1.Designer.vb">
       <DependentUpon>Ribbon1.vb</DependentUpon>
     </Compile>
@@ -205,13 +211,15 @@
     <Compile Include="ThisAddIn.vb">
       <SubType>Code</SubType>
     </Compile>
+    <EmbeddedResource Include="ReadMessageRibbon.resx">
+      <DependentUpon>ReadMessageRibbon.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Ribbon1.resx">
       <DependentUpon>Ribbon1.vb</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="ClassDiagram1.cd" />
     <None Include="ForwardToAbuseAddin.licenseheader" />
-    <None Include="PhishReporter_1_TemporaryKey.pfx" />
     <None Include="PhishReporter_TemporaryKey.pfx" />
     <None Include="ThisAddIn.Designer.xml">
       <DependentUpon>ThisAddIn.vb</DependentUpon>
@@ -261,10 +269,10 @@
     <SignManifests>true</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>PhishReporter_1_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>PhishReporter_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>297D4F78FCEF3E3938174B3CD08E5665B10FE8B3</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>61C3E7C82C109E8DD26C6EDAFE1FE29AFCFFA3E9</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>false</SignAssembly>
